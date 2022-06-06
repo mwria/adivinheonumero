@@ -1,5 +1,4 @@
 import random
-from tkinter import N
 
 jogar = 's'
 
